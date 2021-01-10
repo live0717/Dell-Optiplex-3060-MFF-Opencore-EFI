@@ -46,8 +46,9 @@ Personnaly I adapted the chassis to fix a second wifi Antenna (better WIFI Perfo
 
 
 # Credit
-- [Hackintoshlifeit](https://github.com/Hackintoshlifeit) Hackintoshlifeit EFI for Dell 3060MFF, based from them, and also from web.
+- [Hackintoshlifeit](https://github.com/Hackintoshlifeit) Hackintoshlifeit EFI for Dell 3060MFF.
 - [Acidanthera](https://github.com/acidanthera) 
 - [Dortania](https://github.com/dortania)
+- [WEB] Some discussions, Forum...
 
 
