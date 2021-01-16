@@ -2,7 +2,7 @@
 I create an EFI based on the Hackintoshlifeit EFI for Dell 3060MFF, with opencore update and some optimisations.
 
 # For Hackintosh users with Dell OptiPlex 3060 MFF.
-
+- You must be on 1.4.2 Dell 3060 Bios.
 - Almost all is working (even DP/HDMI output) but no DRM (TV App, Netflix on Safari) and microphone line in.
 - You Must adapt your Platform info (Serial Number, MLB, ROM, UUID) if you want to use Facetime/Imessage.
 
