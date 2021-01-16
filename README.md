@@ -27,7 +27,7 @@ Just buy BCM943602BAED (for example on aliexpress ~60 Euros) and you will have W
 | J1: | black antenna cable  (Bluetooth) |
 | J2: | Optional Wifi |
 
-Personnaly I adapted the chassis to fix a second wifi Antenna (better WIFI Performance, From 433Mbps to 867Mbps (~700Mbps in real).
+Personnaly I adapted the chassis to fix a second wifi Antenna (better WIFI Performance, up to 1300Mbps (~950Mbps in real).
 
 # Hardware Info
 | Component | Info |
