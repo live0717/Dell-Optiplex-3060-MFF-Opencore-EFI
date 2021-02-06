@@ -10,6 +10,7 @@ I create an EFI based on the Hackintoshlifeit EFI for Dell 3060MFF, with opencor
 
 | Tested On | 
 | ------------- |
+| Mac Os Big Sur 11.2 | 
 | Mac Os Big Sur 11.1 | 
 | Mac Os Big Sur 11.0 | 
 
