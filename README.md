@@ -51,4 +51,5 @@ Personnaly I adapted the chassis to fix a second wifi Antenna (better WIFI Perfo
 - [Dortania](https://github.com/dortania)
 - [WEB] Some discussions, Forum...
 
-
+# If you like this depo, buy me a Coffee ! =)
+- [Paypal](https://paypal.me/pools/c/8wGwagGlFS) 
