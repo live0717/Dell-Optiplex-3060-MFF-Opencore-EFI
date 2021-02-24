@@ -1,4 +1,4 @@
-# EFI Opencore 0.6.5 for Dell Optiplex 3060 MFF
+# EFI Opencore 0.6.6 for Dell Optiplex 3060 MFF
 I created an EFI based on the Hackintoshlifeit EFI for Dell 3060MFF, with opencore update and some optimisations.
 
 # For Hackintosh users with Dell OptiPlex 3060 MFF.
@@ -10,6 +10,7 @@ I created an EFI based on the Hackintoshlifeit EFI for Dell 3060MFF, with openco
 
 | Tested On | 
 | ------------- |
+| Mac Os Big Sur 11.2.1 | 
 | Mac Os Big Sur 11.2 | 
 | Mac Os Big Sur 11.1 | 
 | Mac Os Big Sur 11.0 | 
@@ -17,7 +18,7 @@ I created an EFI based on the Hackintoshlifeit EFI for Dell 3060MFF, with openco
 # Bootloader
 | BootLoader | 
 | ------------- |
-| Opencore 0.6.5 |
+| Opencore 0.6.6 |
 
 # WIFI/BT
 Just buy a BCM943602BAED (for example on aliexpress ~60 Euros) and you will have WIFI, BT, Airdrop... and connect :
